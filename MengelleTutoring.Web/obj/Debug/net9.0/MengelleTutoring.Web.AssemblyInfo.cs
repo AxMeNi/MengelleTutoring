@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MengelleTutoring.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64e0511223b7c85b9a534e373ed09c9f216503ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("MengelleTutoring.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MengelleTutoring.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

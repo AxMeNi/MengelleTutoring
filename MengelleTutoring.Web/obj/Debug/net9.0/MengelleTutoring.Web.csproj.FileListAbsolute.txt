@@ -286,3 +286,6 @@ C:\Users\axelm\Documents\Entreprise\mengelletutoring-app\MengelleTutoring.Web\ob
 C:\Users\axelm\Documents\Entreprise\mengelletutoring-app\MengelleTutoring.Web\obj\Debug\net9.0\MengelleTutoring.Web.pdb
 C:\Users\axelm\Documents\Entreprise\mengelletutoring-app\MengelleTutoring.Web\obj\Debug\net9.0\MengelleTutoring.Web.genruntimeconfig.cache
 C:\Users\axelm\Documents\Entreprise\mengelletutoring-app\MengelleTutoring.Web\obj\Debug\net9.0\ref\MengelleTutoring.Web.dll
+C:\Users\axelm\Documents\Entreprise\mengelletutoring-app\MengelleTutoring.Web\bin\Debug\net9.0\Npgsql.dll
+C:\Users\axelm\Documents\Entreprise\mengelletutoring-app\MengelleTutoring.Web\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\axelm\Documents\Entreprise\mengelletutoring-app\MengelleTutoring.Web\obj\Debug\net9.0\MengelleTutoring.Web.sourcelink.json
